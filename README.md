@@ -622,9 +622,10 @@ REST API to manage restaurant with online orders and also inventory management.
 				
 ## Response Codes
 		
-    | Code |	Reason	      |
-    | ---- | -------------- |
-    | 200	 |  OK		        |
-		| 401	 | Unauthorized   |
-		| 403	 | Forbidden	    |
-		| 404	 | Not Found	    |    
+		
+| Code | Reason	     |
+| ---- | ----------- |
+| 200  |  OK	     |
+| 401  | Unauthorized|
+| 403  | Forbidden   |
+| 404  | Not Found   |    

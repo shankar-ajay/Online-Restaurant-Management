@@ -56,7 +56,7 @@ REST API to manage restaurant with online orders and also inventory management.
 
 ● After Starting the application open the database "surabhiRestaurant_db" and insert the "admin" manually using the following query.
 		
-   INSERT INTO user(email_id,password,type,user_name) VALUES ('Any Random Email Id', 'Your Random Password', 'admin', 'Your Name');
+    INSERT INTO user(email_id,password,type,user_name) VALUES ('Any Random Email Id', 'Your Random Password', 'admin', 'Your Name');
 	
 ● After this If you want you can add some items manually in the database as:
 			
